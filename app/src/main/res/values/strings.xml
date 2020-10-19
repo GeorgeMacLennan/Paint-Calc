@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Paint Calculator App</string>
+    <string name="help_activity">Help</string>
+</resources>
